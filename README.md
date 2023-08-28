@@ -1,7 +1,7 @@
 - 👋 Hi, we are @SumPictures
 - 👀 We are interested in developing a community of content creators to decentralize the content production process.
-- 🌱 I’m currently learning about further expanding our code and how to best implement strategies that work for creators and audiences worldwide.
-- 💞️ I’m looking to collaborate on the making of our film as we define the specs for our platform.
+- 🌱 We´re currently learning about grow our code and learn how to best implement strategies that work for creators and audiences worldwide.
+- 💞️ We´re looking to collaborate on the making of our film as we define the specs for our platform.
 - 📫 You may reach us at info@sum.pictures
 
 <!---
